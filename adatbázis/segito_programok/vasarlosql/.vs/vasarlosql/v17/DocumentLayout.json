@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dani\\Documents\\kando\\vasarlosql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFA505D-71F7-42EB-9D73-012A154F1AEC}|vasarlosql\\vasarlosql.csproj|c:\\users\\dani\\documents\\kando\\vasarlosql\\vasarlosql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFA505D-71F7-42EB-9D73-012A154F1AEC}|vasarlosql\\vasarlosql.csproj|solutionrelative:vasarlosql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\kando\\vasarlosql\\vasarlosql\\Program.cs",
+              "RelativeDocumentMoniker": "vasarlosql\\Program.cs",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\kando\\vasarlosql\\vasarlosql\\Program.cs",
+              "RelativeToolTip": "vasarlosql\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAtwC4AAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:05:54.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

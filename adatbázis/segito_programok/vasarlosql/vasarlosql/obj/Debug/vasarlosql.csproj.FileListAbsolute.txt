@@ -1,0 +1,7 @@
+C:\Users\Dani\Documents\kando\vasarlosql\vasarlosql\bin\Debug\vasarlosql.exe.config
+C:\Users\Dani\Documents\kando\vasarlosql\vasarlosql\bin\Debug\vasarlosql.exe
+C:\Users\Dani\Documents\kando\vasarlosql\vasarlosql\bin\Debug\vasarlosql.pdb
+C:\Users\Dani\Documents\kando\vasarlosql\vasarlosql\obj\Debug\vasarlosql.csproj.AssemblyReference.cache
+C:\Users\Dani\Documents\kando\vasarlosql\vasarlosql\obj\Debug\vasarlosql.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\kando\vasarlosql\vasarlosql\obj\Debug\vasarlosql.exe
+C:\Users\Dani\Documents\kando\vasarlosql\vasarlosql\obj\Debug\vasarlosql.pdb

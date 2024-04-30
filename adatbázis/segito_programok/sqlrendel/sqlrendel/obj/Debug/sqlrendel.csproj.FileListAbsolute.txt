@@ -1,0 +1,7 @@
+C:\Users\Dani\Documents\kando\sqlrendel\sqlrendel\bin\Debug\sqlrendel.exe.config
+C:\Users\Dani\Documents\kando\sqlrendel\sqlrendel\bin\Debug\sqlrendel.exe
+C:\Users\Dani\Documents\kando\sqlrendel\sqlrendel\bin\Debug\sqlrendel.pdb
+C:\Users\Dani\Documents\kando\sqlrendel\sqlrendel\obj\Debug\sqlrendel.csproj.AssemblyReference.cache
+C:\Users\Dani\Documents\kando\sqlrendel\sqlrendel\obj\Debug\sqlrendel.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\kando\sqlrendel\sqlrendel\obj\Debug\sqlrendel.exe
+C:\Users\Dani\Documents\kando\sqlrendel\sqlrendel\obj\Debug\sqlrendel.pdb

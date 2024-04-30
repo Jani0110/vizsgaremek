@@ -1,0 +1,7 @@
+C:\Users\Dani\Documents\kando\sqlmain\sqlmain\bin\Debug\sqlmain.exe.config
+C:\Users\Dani\Documents\kando\sqlmain\sqlmain\bin\Debug\sqlmain.exe
+C:\Users\Dani\Documents\kando\sqlmain\sqlmain\bin\Debug\sqlmain.pdb
+C:\Users\Dani\Documents\kando\sqlmain\sqlmain\obj\Debug\sqlmain.csproj.AssemblyReference.cache
+C:\Users\Dani\Documents\kando\sqlmain\sqlmain\obj\Debug\sqlmain.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\kando\sqlmain\sqlmain\obj\Debug\sqlmain.exe
+C:\Users\Dani\Documents\kando\sqlmain\sqlmain\obj\Debug\sqlmain.pdb

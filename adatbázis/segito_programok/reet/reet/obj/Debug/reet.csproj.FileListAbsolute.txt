@@ -1,0 +1,7 @@
+C:\Users\Dani\Documents\kando\reet\reet\bin\Debug\reet.exe.config
+C:\Users\Dani\Documents\kando\reet\reet\bin\Debug\reet.exe
+C:\Users\Dani\Documents\kando\reet\reet\bin\Debug\reet.pdb
+C:\Users\Dani\Documents\kando\reet\reet\obj\Debug\reet.csproj.AssemblyReference.cache
+C:\Users\Dani\Documents\kando\reet\reet\obj\Debug\reet.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\kando\reet\reet\obj\Debug\reet.exe
+C:\Users\Dani\Documents\kando\reet\reet\obj\Debug\reet.pdb
